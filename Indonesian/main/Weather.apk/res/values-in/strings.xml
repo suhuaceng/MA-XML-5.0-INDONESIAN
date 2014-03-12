@@ -116,7 +116,7 @@ Hari ini %1$s's cuaca %2$s, %3$s, %4$s. %5$s."</string>
   <string name="tip_weather">MIUI pemberitahuan cuaca</string>
   <string name="tip_weather_info_content_1">Membawa lapisan!</string>
   <string name="tip_weather_info_title_1">%1$s perbedaan suhu %2$d derajat</string>
-  <string name="tip_weather_info_title_2">%1$s Suhu hari ini diperkirakan %2$s</string>
+  <string name="tip_weather_info_title_2">%1$s suhu hari ini diperkirakan %2$s</string>
   <string name="trend_weather_today">Hari ini</string>
   <string name="trend_weather_tomorrow">Esok hari</string>
   <string name="weather_notification">Pemberitahuan cuaca</string>
