@@ -123,5 +123,5 @@ Hari ini %1$s's cuaca %2$s, %3$s, %4$s. %5$s."</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
-  <string name="widget_loading"Tidak ada data cuaca</string>
+  <string name="widget_loading"Tidak ada data cuaca"</string>
 </resources>
